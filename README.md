@@ -18,3 +18,4 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 <img src="images/After.png" alt="Alt Text" Width="600" heigth="200">
 ## Here's the Physical Data Model
 <img src="images/Relation.PNG" alt="Alt Text" Width="600" heigth="200">
+.
